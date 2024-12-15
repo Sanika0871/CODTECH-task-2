@@ -7,6 +7,8 @@ Mentor: MUZAMMIL AHMED
 
 Overview of the Project 
 
+Project- Student Grade Tracker
+
 Objective-
 The objective of the Student Grade Tracker project is to create a tool for students or educators to efficiently manage and track grades for various subjects or assignments. 
 
