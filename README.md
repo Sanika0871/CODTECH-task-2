@@ -3,7 +3,9 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS10003
 Domain: Java Programming
 Duration: November to December 2024
-Mentor: MUZAMMIL AHMED# CODTECH-task-2
+Mentor: MUZAMMIL AHMED
+
+Overview of the Project 
 
 Objective-
 The objective of the Student Grade Tracker project is to create a tool for students or educators to efficiently manage and track grades for various subjects or assignments. 
